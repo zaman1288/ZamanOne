@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> Business Website </title>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+       <header>
+             
+
+
+
+
+        </header>
+
+
+        
+
+</body>
+
+
+
+
+
+
+
+</html>
